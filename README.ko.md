@@ -6,6 +6,10 @@
 
 [English README](README.md)
 
+# Patent-GPT 데모 영상
+[![Patent-GPT v0.1.0 Demo](https://img.youtube.com/vi/Du5ytB8_pX0/0.jpg)](https://www.youtube.com/watch?v=Du5ytB8_pX0)
+*위 이미지를 클릭하면 유튜브 데모 영상으로 이동합니다.*
+
 ---
 
 ## 차례
