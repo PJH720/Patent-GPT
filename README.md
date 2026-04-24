@@ -6,8 +6,8 @@
 
 [한국어 README](README.ko.md)
 
-[Patent-GPT v0.1.0 Demo](https://www.youtube.com/watch?v=Du5ytB8_pX0) 
-(*Demo Video link*)
+![Patent-GPT v0.1.0 Demo](https://www.youtube.com/watch?v=Du5ytB8_pX0) 
+> (*Demo Video link*) [Patent-GPT v0.1.0 Demo](https://www.youtube.com/watch?v=Du5ytB8_pX0) 
 
 ---
 
